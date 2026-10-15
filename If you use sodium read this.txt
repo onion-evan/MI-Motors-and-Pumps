@@ -1,0 +1,1 @@
+Go into sodium settings, turn "Animate Only Visible Textures" OFF for them to work!
